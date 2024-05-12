@@ -1,0 +1,67 @@
+.navbar {
+  height: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 32px;
+}
+
+.logo {
+  height: 36px;
+  width: 36px;
+  color: #000;
+}
+
+.navbar-heading {
+  font-size: 36px;
+  font-weight: 800;
+  color: #000;
+  text-transform: uppercase;
+}
+
+.social-links {
+  display: flex;
+  gap: 24px;
+  align-items: center;
+}
+
+.navbar-link {
+  height: 24px;
+  width: 24px;
+}
+
+.lang {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.lang span {
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.dropdown {
+  height: 16px;
+  wigth: 16px;
+  color: #292d32;
+  cursor: pointer;
+}
+
+.btn-container {
+  display: flex;
+  gap: 64px;
+  align-items: center;
+  justify-content: center;
+  margin: 32px;
+}
+
+.btn-container a {
+  text-decoration: none;
+}
+
+hr {
+  width: 100%;
+  height: 2px;
+  color: #2f2f2f;
+}

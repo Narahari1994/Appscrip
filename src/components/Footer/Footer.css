@@ -1,0 +1,191 @@
+.footer-container {
+  display: flex;
+  flex-direction: column;
+  background: #000;
+  padding: 62px;
+  color: #fff;
+}
+
+.footer-first-half {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 32px;
+}
+
+.subscribe-container {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.subscribe-container h3 {
+  font-weight: 700;
+  font-size: 18px;
+  color: #fff;
+}
+
+.subscribe-container p {
+  font-weight: 400;
+  font-size: 16px;
+}
+
+.input-container {
+  display: flex;
+  gap: 30px;
+}
+
+.input-container input {
+  width: 384px;
+  height: 47px;
+  padding: 16px;
+}
+
+.subscribe-btn {
+  padding: 10px 16px;
+  border: 1px solid #fff;
+  background-color: transparent;
+  font-size: 18px;
+  font-weight: 500;
+  color: #fff;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.contact-container {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.contact-container h3 {
+  font-size: 20px;
+  font-weight: 700;
+  color: #fff;
+}
+
+.contact-container p {
+  font-size: 16px;
+  font-weight: 400;
+  color: #fff;
+}
+
+.country-container {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.country-container img {
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+}
+
+.country-container span {
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.country-container .transaction {
+  font-size: 12px;
+}
+
+.footer-second-half {
+  margin-top: 32px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.mettamuse-container {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.mettamuse-container h3 {
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.mettamuse-container p {
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.quick-links-container {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.quick-links-container h3 {
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.quick-links-container p {
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.followus-container {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.followus-container h3 {
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.followus-container div {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+}
+
+.insta {
+  height: 32px;
+  width: 32px;
+}
+
+.linkedin {
+  height: 32px;
+  width: 32px;
+}
+
+.sub-heading {
+  font-size: 20px;
+}
+
+.payment-container {
+  display: flex;
+  gap: 12px;
+}
+
+.gpay {
+  width: 56px;
+  height: 35px;
+}
+
+.master {
+  width: 56px;
+  height: 35px;
+}
+
+.paypal {
+  width: 56px;
+  height: 35px;
+}
+
+.amex {
+  width: 56px;
+  height: 35px;
+}
+
+.applepay {
+  width: 56px;
+  height: 35px;
+}

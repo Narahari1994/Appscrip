@@ -1,0 +1,10 @@
+.btn {
+  padding: 10px 16px;
+  background: transparent;
+  border: none;
+  outline: none;
+  font-weight: 700;
+  font-size: 16px;
+  cursor: pointer;
+  text-transform: uppercase;
+}

@@ -1,0 +1,44 @@
+.product-container {
+  width: 350px;
+  display: flex;
+  flex-direction: column;
+  padding: 12px;
+}
+
+.product-contaner img {
+  width: 100%;
+}
+
+.product-container div {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+  margin-bottom: 18px;
+}
+
+.product-heading {
+  font-weight: 700;
+  font-size: 18px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.product-description {
+  color: ##888792;
+  font-size: 16px;
+  font-weight: 400;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.product-price {
+  font-weight: 700;
+  color: green;
+  font-size: 16px;
+}
+
+.product-rating {
+  color: red;
+  font-weight: 700;
+  font-size: 16px;
+}

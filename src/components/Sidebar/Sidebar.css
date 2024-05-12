@@ -1,0 +1,47 @@
+.sidebar-container {
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  padding: 24px;
+}
+
+.input-container {
+  display: flex;
+  gap: 10px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.input-container input {
+  height: 22px;
+  width: 22px;
+  color: #4d4d4d;
+}
+
+.input-container label {
+  text-transform: uppercase;
+}
+
+.sidebar-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.sidebar-item div {
+  display: flex;
+  flex-direction: column;
+}
+
+..sidebar-item div .item-heading {
+  font-weight: 700;
+  font-size: 18px;
+}
+
+.dropdown {
+  height: 16px;
+  width: 16px;
+}
